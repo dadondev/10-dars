@@ -5,10 +5,10 @@ import Main from "./layout/Main";
 
 function App() {
   return (
-    <>
+    <div className="mx-auto max-w-[1200px]">
       <Header />
       <Main />
-    </>
+    </div>
   );
 }
 
