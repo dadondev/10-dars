@@ -1,9 +1,71 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.0.6">
   <diagram name="Page-1" id="FFDwMvlbJOhm9kUS7dDH">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nefhbvl0S0RsehAVfY3g-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nefhbvl0S0RsehAVfY3g-1" target="nefhbvl0S0RsehAVfY3g-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nefhbvl0S0RsehAVfY3g-1" value="user" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nefhbvl0S0RsehAVfY3g-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nefhbvl0S0RsehAVfY3g-2" target="nefhbvl0S0RsehAVfY3g-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nefhbvl0S0RsehAVfY3g-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nefhbvl0S0RsehAVfY3g-2" target="nefhbvl0S0RsehAVfY3g-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nefhbvl0S0RsehAVfY3g-2" value="message" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nefhbvl0S0RsehAVfY3g-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nefhbvl0S0RsehAVfY3g-8" target="nefhbvl0S0RsehAVfY3g-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nefhbvl0S0RsehAVfY3g-8" value="another user" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="730" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nefhbvl0S0RsehAVfY3g-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nefhbvl0S0RsehAVfY3g-9" target="nefhbvl0S0RsehAVfY3g-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nefhbvl0S0RsehAVfY3g-9" value="hashed message" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nefhbvl0S0RsehAVfY3g-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nefhbvl0S0RsehAVfY3g-11" target="nefhbvl0S0RsehAVfY3g-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nefhbvl0S0RsehAVfY3g-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nefhbvl0S0RsehAVfY3g-11" target="nefhbvl0S0RsehAVfY3g-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nefhbvl0S0RsehAVfY3g-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nefhbvl0S0RsehAVfY3g-11" target="nefhbvl0S0RsehAVfY3g-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nefhbvl0S0RsehAVfY3g-11" value="password hashing" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nefhbvl0S0RsehAVfY3g-13" value="Sender user id" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nefhbvl0S0RsehAVfY3g-15" value="Reciever user id" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nefhbvl0S0RsehAVfY3g-17" value="chat id" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nefhbvl0S0RsehAVfY3g-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nefhbvl0S0RsehAVfY3g-19" target="nefhbvl0S0RsehAVfY3g-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nefhbvl0S0RsehAVfY3g-19" value="Reciever user can message only 1 minute after the message locked" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="400" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="nefhbvl0S0RsehAVfY3g-21" value="&lt;div&gt;To unlock message &lt;br&gt;&lt;/div&gt;&lt;div&gt;user enter time and sender user&#39;s name&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="425" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nefhbvl0S0RsehAVfY3g-23" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="120" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
